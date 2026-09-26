@@ -5,7 +5,7 @@ A modern, fully responsive weather dashboard built with vanilla HTML, CSS, and J
 A sleek, modern, and fully responsive weather dashboard built using **pure HTML5, CSS3, and Vanilla JavaScript** (no external frameworks or libraries required). Powered by the **OpenWeatherMap API** and **OpenStreetMap**.
 
 ---
-
+For live demo Follow the link :- https://weatherwallah.netlify.app/
 ## ✨ Features
 
 - 🔍 **Live City Search & Autocomplete:** Real-time search suggestions as you type using the OpenWeatherMap Geocoding API.
